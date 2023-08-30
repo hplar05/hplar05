@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Vanilla Javascript<br>💬 Ask me about<br>⚡ Fun fact I Am a clumsy person 
+🌱 I’m currently learning Vanilla Javascript<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
