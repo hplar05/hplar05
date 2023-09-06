@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Vanilla Javascript, React Js, Flutter Native<br>
+🌱 I’m currently learning Vanilla Javascript, React Js, React Native<br>
 
 
 ## 🌐 Socials:
